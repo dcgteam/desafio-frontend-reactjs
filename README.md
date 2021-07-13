@@ -8,7 +8,7 @@ Esse desafio foi elaborado para avaliar suas habilidades como desenvolvedor. Nã
 
 [Keep it simple](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_KISS), entendemos que você possui suas prioridades e nossa proposta com esse desafio é ter uma idéia geral de como você faz seus códigos, toma suas decisões arquiteturais e o seu conhecimento geral sobre os assuntos abordados.
 
-Seu desafio precisa estar versionado no Github, em um repositório público ou privado. Se o repositório for privado, solicite ao RH a lista de emails que deverá receber o acesso ao seu repositório. Não esqueceça de encaminhar o link do repositório no email de retorno!
+***Seu desafio precisa estar versionado no Github, em um repositório público ou privado***. Se o repositório for privado, solicite ao RH a lista de emails que deverá receber o acesso ao seu repositório. ***Não esqueceça de encaminhar o link do repositório no email de retorno!***
 
 Documentação é primordial e vamos nos guiar por ela ;)
 
@@ -27,12 +27,10 @@ Não tem problema se você não conseguir finalizar tudo! Não deixe de enviar s
 
 ## ⏺️ Passo a passo
 
-1. Faça um fork desse repositório.
-2. Implemente o layout conforme os PDFs ([brewery-home](brewery-home.pdf) e [brewery-detail](brewery-detail.pdf)).
-3. Siga os critérios de aceite descritos no [ACCEPTANCE-CRITERIA.md](ACCEPTANCE-CRITERIA.md).
-4. Documente os passos necessários para podermos executar sua solução, queremos ver ela em ação.
-5. Abra um PR com a sua solução.
+1. Implemente o layout responsivo e desktop conforme os PDFs ([brewery-home](brewery-home.pdf) e [brewery-detail](brewery-detail.pdf)).
+2. Siga os critérios de aceite descritos no [ACCEPTANCE-CRITERIA.md](ACCEPTANCE-CRITERIA.md).
+3. Documente os passos necessários para podermos executar sua solução, queremos ver ela em ação.
 
 ## 🙋 Perguntas, dúvidas, sugestões?
 
-Abra uma [issue](https://github.com/chaordic/desafio-frontend/issue/new) e nós vamos te ajudar.
+Abra uma [issue](https://github.com/dcgteam/desafio-frontend-reactjs/issues/new) e nós vamos te ajudar.
