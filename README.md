@@ -1,6 +1,6 @@
 # Front-end @Linx
 
-Esse desafio é parte do processo de seleção para desenvolvedores front end que desejam trabalhar na [Linx](https://www.linx.com.br).
+Esse desafio é parte do processo de seleção para desenvolvedores front-end que desejam trabalhar na [Linx](https://www.linx.com.br).
 
 ## Sobre o desafio
 
